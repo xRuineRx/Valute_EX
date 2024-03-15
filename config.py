@@ -1,4 +1,4 @@
-TOKEN = "6747402880:AAEao9YgnFbrFBtZOVIcKjdyNxor6XFAB5w"
+TOKEN = ""
 
 valuta = {
     "евро" : "EUR",
